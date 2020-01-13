@@ -1,0 +1,3 @@
+backend of user registration and login using Mongodb & AdonisJS
+database name: adonis-login
+dbuser: admin
